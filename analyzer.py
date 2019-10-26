@@ -2,7 +2,7 @@ import subprocess
 import json
 import random
 
-COMMAND='{{ cat js/bingo.js js/seedrandom-min.js tables/board.js; echo "console.log(JSON.stringify(getBingoBoard(bingoList, 5, {{seed:{}}})))"; }} | node'
+COMMAND='{{ cat js/bingo.js js/seedrandom-min.js tables/bingolists.js; echo "console.log(JSON.stringify(getBingoBoard(bingoLists.normal, 5, {{seed:{}}})))"; }} | node'
 
 goalcounts = {}
 typecounts = {}

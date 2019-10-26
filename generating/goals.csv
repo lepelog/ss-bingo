@@ -52,7 +52,7 @@ Fairy in a Bottle,Bottles,8
 Batreaux's Heart Piece,"Hearts,Crystals",8
 3 Blue Bird Feathers,Treasures,8
 28+ cuts at Bamboo Island,Misc,8
-Water Dragon's Scale,"Harp,BiT,Scale",9
+Stone of Trials,Skyloft Trial,8
 Revitalizing Potion+,Potions,9
 Open all Skyview Temple Chests,"Chests,Skyview",9
 Both Faron Heart Pieces,"Faron,Hearts",9
@@ -60,19 +60,21 @@ Both Faron Heart Pieces,"Faron,Hearts",9
 3 Bottles,Bottles,9
 10 Scattered Crystals,Crystals,9
 Parrow's Gratitude Crystals,Crystals,10
-Lake Floria Goddess Cube,"Harp,BiT,Scale",10
 Kina's Pumpkin Carrying Game,Pumpkin,10
 Enter Isle of Songs,BiT,10
 Air Potion,"Potions,Scale,BiT",10
 5 Faron Goddess Cubes,"Cubes,Faron",10
 3 Unique Potions,"Potions,Bottles",10
 15 Gratitude Crystals,Crystals,10
+Sky Keep Map,Skyloft Trial,10
 Zelda's Heart Piece,"End,Hearts,Sailcloth",11
 Zelda's Gratitude Crystal,"End,Crystals,Sailcloth",11
 Two Unused Small Keys,"BiT,Skyview",11
 Skyview Zero Dungeon Map,"Map,Skyview,BiT",11
 Peatrice's Gratitude Crystals,Crystals,11
 Farore's Courage,BiT,11
+Water Dragon's Scale,"Harp,BiT,Scale",12
+Lake Floria Goddess Cube,"Harp,BiT,Scale",12
 Guardian Potion+,Potions,12
 Earth Temple Dungeon Map,"Map,Earth",12
 6 Eldin Goddess Cubes,"Cubes,Eldin",12
@@ -80,12 +82,15 @@ Earth Temple Dungeon Map,"Map,Earth",12
 30 Bomb Capacity,Ammo,12
 3 Unique Shields,Shields,12
 3 Medals,Medals,12
+Whip,"Scale,Cistern",12
+Ancient Cistern Map,"Scale,Cistern",12
 Reinforced Shield,Shields,13
 Open all Earth Temple Chests,"Chests,Earth",13
 Life Tree Seedling,BiT,13
 Five map beacons,Lanayru,13
 Destroy all of Scaldera's Rocks,Earth,13
-Clear a Thrill Digger Board,Eldin,13
+Ancient Cistern Boss Key,"Scale,Cistern",13
+Beat Ancient Cistern,"Scale,Cistern",13
 Updated Lanaryu Desert Map,Lanayru,14
 Quick Beetle,Upgrade,14
 Catch one of every bug,Bugs,14
@@ -99,6 +104,7 @@ Braced Shield,Shields,15
 Big Bug Net,Upgrade,15
 25 Gratitude Crystals,Crystals,15
 10 Goddess Cubes,Cubes,15
+Fireshield Earrings,Earrings,15
 Duplicate an Ampilus Egg,Lanayru,16
 Cursed Medal,"Medals,Crystals",16
 Both Life Medals,Medals,16
@@ -106,6 +112,8 @@ All 15 Scattered Crystals,Crystals,16
 8 Heart Pieces,Hearts,16
 5 Lanayru Goddess Cubes,"Lanayru,Cubes",16
 4 Medals,Medals,16
+Clawshots,Clawshots,16
+Goddess Cube Dowsing,Earrings,16
 Revitalizing Potion++,Potions,17
 Obtain one of every treasure,Treasures,17
 Heart Potion++,Potions,17
@@ -113,18 +121,21 @@ Fortified Shield,Shields,17
 4 Unique Shields,Shields,17
 3 Unique Wooden Shields,Shields,17
 1500 Rupees,Rupees,17
+5 Eldin Bird Statues,Earrings,17
 Turn a windmill,Misc,18
 Mallara's Gratitude Crystals,Crystals,18
 LMF Dungeon Map,"Map,LMF",18
 Large Slingshot Satchel,"Ammo,Upgrade",18
 Large Bomb Bag,"Ammo,Upgrade",18
 Baby's Rattle,Misc,18
+Bow,Clawshots,18
 Tough Beetle,Upgrade,19
 3 Goddess Plumes,Treasures,19
 3 Dungeon Maps,Map,19
 15 Goddess Cubes,Cubes,19
 12 Hearts,Hearts,19
 11 Heart Pieces,Hearts,19
+Sand Ship HP,Clawshots,19
 Temple of Time Bird Statue,"Statues,Harp",20
 Stamina Potion,Potions,20
 Open all LMF Chests,"LMF,Chests",20
@@ -142,6 +153,7 @@ Reseal the Imprisoned,"Harp,Imp",22
 8 Pouch Slots,"Pouch,Rupees",22
 6 Medals,Medals,22
 3 Unique Iron Shields,Shields,22
+Sand Sea Map,"Clawshots,Gust Bellows",22
 Talk to Yerbal,"Harp,BiT",23
 Summon a Gossip Stone,Harp,23
 Repair Scrapper,"Harp,Imp",23

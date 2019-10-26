@@ -355,17 +355,15 @@ const bingoLists = {normal:[
             "types": [
                 "Misc"
             ]
+        },
+        {
+            "name": "Stone of Trials",
+            "types": [
+                "Skyloft Trial"
+            ]
         }
     ],
     [
-        {
-            "name": "Water Dragon's Scale",
-            "types": [
-                "Harp",
-                "BiT",
-                "Scale"
-            ]
-        },
         {
             "name": "Revitalizing Potion+",
             "types": [
@@ -413,14 +411,6 @@ const bingoLists = {normal:[
             ]
         },
         {
-            "name": "Lake Floria Goddess Cube",
-            "types": [
-                "Harp",
-                "BiT",
-                "Scale"
-            ]
-        },
-        {
             "name": "Kina's Pumpkin Carrying Game",
             "types": [
                 "Pumpkin"
@@ -458,6 +448,12 @@ const bingoLists = {normal:[
             "name": "15 Gratitude Crystals",
             "types": [
                 "Crystals"
+            ]
+        },
+        {
+            "name": "Sky Keep Map",
+            "types": [
+                "Skyloft Trial"
             ]
         }
     ],
@@ -508,6 +504,22 @@ const bingoLists = {normal:[
     ],
     [
         {
+            "name": "Water Dragon's Scale",
+            "types": [
+                "Harp",
+                "BiT",
+                "Scale"
+            ]
+        },
+        {
+            "name": "Lake Floria Goddess Cube",
+            "types": [
+                "Harp",
+                "BiT",
+                "Scale"
+            ]
+        },
+        {
             "name": "Guardian Potion+",
             "types": [
                 "Potions"
@@ -550,6 +562,20 @@ const bingoLists = {normal:[
             "types": [
                 "Medals"
             ]
+        },
+        {
+            "name": "Whip",
+            "types": [
+                "Scale",
+                "Cistern"
+            ]
+        },
+        {
+            "name": "Ancient Cistern Map",
+            "types": [
+                "Scale",
+                "Cistern"
+            ]
         }
     ],
     [
@@ -585,9 +611,17 @@ const bingoLists = {normal:[
             ]
         },
         {
-            "name": "Clear a Thrill Digger Board",
+            "name": "Ancient Cistern Boss Key",
             "types": [
-                "Eldin"
+                "Scale",
+                "Cistern"
+            ]
+        },
+        {
+            "name": "Beat Ancient Cistern",
+            "types": [
+                "Scale",
+                "Cistern"
             ]
         }
     ],
@@ -674,6 +708,12 @@ const bingoLists = {normal:[
             "types": [
                 "Cubes"
             ]
+        },
+        {
+            "name": "Fireshield Earrings",
+            "types": [
+                "Earrings"
+            ]
         }
     ],
     [
@@ -720,6 +760,18 @@ const bingoLists = {normal:[
             "types": [
                 "Medals"
             ]
+        },
+        {
+            "name": "Clawshots",
+            "types": [
+                "Clawshots"
+            ]
+        },
+        {
+            "name": "Goddess Cube Dowsing",
+            "types": [
+                "Earrings"
+            ]
         }
     ],
     [
@@ -764,6 +816,12 @@ const bingoLists = {normal:[
             "types": [
                 "Rupees"
             ]
+        },
+        {
+            "name": "5 Eldin Bird Statues",
+            "types": [
+                "Earrings"
+            ]
         }
     ],
     [
@@ -805,6 +863,12 @@ const bingoLists = {normal:[
             "types": [
                 "Misc"
             ]
+        },
+        {
+            "name": "Bow",
+            "types": [
+                "Clawshots"
+            ]
         }
     ],
     [
@@ -842,6 +906,12 @@ const bingoLists = {normal:[
             "name": "11 Heart Pieces",
             "types": [
                 "Hearts"
+            ]
+        },
+        {
+            "name": "Sand Ship HP",
+            "types": [
+                "Clawshots"
             ]
         }
     ],
@@ -959,6 +1029,13 @@ const bingoLists = {normal:[
             "name": "3 Unique Iron Shields",
             "types": [
                 "Shields"
+            ]
+        },
+        {
+            "name": "Sand Sea Map",
+            "types": [
+                "Clawshots",
+                "Gust Bellows"
             ]
         }
     ],
