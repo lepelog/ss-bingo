@@ -361,6 +361,12 @@ const bingoLists = {normal:[
             "types": [
                 "Skyloft Trial"
             ]
+        },
+        {
+            "name": "Skyview without beating Girahim",
+            "types": [
+                "Skyview"
+            ]
         }
     ],
     [
@@ -397,7 +403,7 @@ const bingoLists = {normal:[
             ]
         },
         {
-            "name": "10 Scattered Crystals",
+            "name": "10 Unique Scattered Crystals",
             "types": [
                 "Crystals"
             ]
@@ -445,7 +451,7 @@ const bingoLists = {normal:[
             ]
         },
         {
-            "name": "15 Gratitude Crystals",
+            "name": "15 Unique Gratitude Crystals",
             "types": [
                 "Crystals"
             ]
@@ -593,9 +599,9 @@ const bingoLists = {normal:[
             ]
         },
         {
-            "name": "Life Tree Seedling",
+            "name": "Visible Life Tree Seedling",
             "types": [
-                "BiT"
+                "Life Tree"
             ]
         },
         {
@@ -622,6 +628,13 @@ const bingoLists = {normal:[
             "types": [
                 "Scale",
                 "Cistern"
+            ]
+        },
+        {
+            "name": "Sacred Water",
+            "types": [
+                "Skyview",
+                " Scale"
             ]
         }
     ],
@@ -663,6 +676,12 @@ const bingoLists = {normal:[
             "types": [
                 "Rupees"
             ]
+        },
+        {
+            "name": "Heal the Water Dragon",
+            "types": [
+                "Scale"
+            ]
         }
     ],
     [
@@ -698,7 +717,7 @@ const bingoLists = {normal:[
             ]
         },
         {
-            "name": "25 Gratitude Crystals",
+            "name": "25 Unique Gratitude Crystals",
             "types": [
                 "Crystals"
             ]
@@ -737,13 +756,13 @@ const bingoLists = {normal:[
             ]
         },
         {
-            "name": "All 15 Scattered Crystals",
+            "name": "All 15 Unique Scattered Crystals",
             "types": [
                 "Crystals"
             ]
         },
         {
-            "name": "8 Heart Pieces",
+            "name": "8 Unique Heart Pieces",
             "types": [
                 "Hearts"
             ]
@@ -822,6 +841,13 @@ const bingoLists = {normal:[
             "types": [
                 "Earrings"
             ]
+        },
+        {
+            "name": "Temple of Time Bird Statue",
+            "types": [
+                "Statues",
+                "Harp"
+            ]
         }
     ],
     [
@@ -869,6 +895,25 @@ const bingoLists = {normal:[
             "types": [
                 "Clawshots"
             ]
+        },
+        {
+            "name": "Cawlin's Letter",
+            "types": [
+                "Harp"
+            ]
+        },
+        {
+            "name": "Ballad of the Goddess",
+            "types": [
+                "Harp"
+            ]
+        },
+        {
+            "name": "Reseal the Imprisoned",
+            "types": [
+                "Harp",
+                "Imp"
+            ]
         }
     ],
     [
@@ -903,7 +948,7 @@ const bingoLists = {normal:[
             ]
         },
         {
-            "name": "11 Heart Pieces",
+            "name": "11 Unique Heart Pieces",
             "types": [
                 "Hearts"
             ]
@@ -913,16 +958,22 @@ const bingoLists = {normal:[
             "types": [
                 "Clawshots"
             ]
-        }
-    ],
-    [
+        },
         {
-            "name": "Temple of Time Bird Statue",
+            "name": "8 Lanayru Bird Statues",
             "types": [
                 "Statues",
                 "Harp"
             ]
         },
+        {
+            "name": "Visible Life Tree Fruit",
+            "types": [
+                "Life Tree"
+            ]
+        }
+    ],
+    [
         {
             "name": "Stamina Potion",
             "types": [
@@ -949,8 +1000,15 @@ const bingoLists = {normal:[
             ]
         },
         {
-            "name": "Cawlin's Letter",
+            "name": "5 Unique Shields",
             "types": [
+                "Shields"
+            ]
+        },
+        {
+            "name": "Sacred Water Dowsing",
+            "types": [
+                "Scale",
                 "Harp"
             ]
         }
@@ -963,26 +1021,7 @@ const bingoLists = {normal:[
             ]
         },
         {
-            "name": "Ballad of the Goddess",
-            "types": [
-                "Harp"
-            ]
-        },
-        {
-            "name": "8 Lanayru Bird Statues",
-            "types": [
-                "Statues",
-                "Harp"
-            ]
-        },
-        {
-            "name": "5 Unique Shields",
-            "types": [
-                "Shields"
-            ]
-        },
-        {
-            "name": "40 Gratitude Crystals",
+            "name": "40 Unique Gratitude Crystals",
             "types": [
                 "Crystals",
                 "Imp"
@@ -994,6 +1033,12 @@ const bingoLists = {normal:[
                 "Statues",
                 "Harp"
             ]
+        },
+        {
+            "name": "Fire Sanctuary Bottle",
+            "types": [
+                "Earrings"
+            ]
         }
     ],
     [
@@ -1003,13 +1048,6 @@ const bingoLists = {normal:[
                 "Upgrade",
                 "Harp",
                 "BiT"
-            ]
-        },
-        {
-            "name": "Reseal the Imprisoned",
-            "types": [
-                "Harp",
-                "Imp"
             ]
         },
         {
@@ -1032,7 +1070,7 @@ const bingoLists = {normal:[
             ]
         },
         {
-            "name": "Sand Sea Map",
+            "name": "Ancient Sea Chart",
             "types": [
                 "Clawshots",
                 "Gust Bellows"
@@ -1065,6 +1103,12 @@ const bingoLists = {normal:[
             "types": [
                 "BiT",
                 "Harp"
+            ]
+        },
+        {
+            "name": "Fire Sanctuary HP",
+            "types": [
+                "Earrings"
             ]
         }
     ],
