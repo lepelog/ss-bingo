@@ -967,7 +967,7 @@ const bingoLists = {normal:[
             ]
         },
         {
-            "name": "Visible Life Tree Fruit",
+            "name": "Life Tree Fruit",
             "types": [
                 "Life Tree"
             ]
