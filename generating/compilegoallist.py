@@ -16,3 +16,6 @@ with open('../tables/bingolists.js','w',encoding='utf8') as bf:
     bf.write('const bingoLists = {normal:')
     json.dump(goallist, bf, ensure_ascii=False, indent=4)
     bf.write('};')
+
+with open('normal.json','w',encoding='utf8') as f:
+    json.dump(goallist, f, ensure_ascii=False, indent=4)

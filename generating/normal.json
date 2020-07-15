@@ -1,4 +1,4 @@
-const bingoLists = {normal:[
+[
     [
         {
             "name": "Mushroom Spores",
@@ -1212,4 +1212,4 @@ const bingoLists = {normal:[
             ]
         }
     ]
-]};
+]

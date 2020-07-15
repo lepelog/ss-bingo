@@ -22,6 +22,7 @@ Guardian Potion,"Bottles,Potions",3
 Bring Hot Soup to Eagus,"Bottles,Pumpkin",3
 3 Extra Wallets,Rupees,3
 10 Blessed Butterflies,Bugs,3
+Talk to a Gossip Stone,Gossip Stone,3
 Both Deep Woods Statues,"Faron,Statues",4
 Banded Shield,Shields,4
 50 Deku Hornets,Bugs,4
@@ -46,6 +47,7 @@ Defeat Ghirahim with a dart,Skyview,7
 60 Deku Seed Capacity,Ammo,7
 4 Eldin Bird Statues,"Statues,Eldin",7
 10 Volcanic Ladybugs,Bugs,7
+Beat Skyview but not Girahim,"Skyview,BiT",7
 Sleep in every Knight Academy Bed,"Misc,Sailcloth",8
 Heart Potion+,Potions,8
 Fairy in a Bottle,Bottles,8
@@ -68,12 +70,14 @@ Air Potion,"Potions,Scale,BiT",10
 3 Unique Potions,"Potions,Bottles",10
 15 Unique Gratitude Crystals,Crystals,10
 Sky Keep Map,Skyloft Trial,10
+Trial Dowsing,BiT,10
 Zelda's Heart Piece,"End,Hearts,Sailcloth",11
 Zelda's Gratitude Crystal,"End,Crystals,Sailcloth",11
 Two Unused Small Keys,"BiT,Skyview",11
 Skyview Zero Dungeon Map,"Map,Skyview,BiT",11
 Peatrice's Gratitude Crystals,Crystals,11
 Farore's Courage,BiT,11
+Earth Temple Key,Eldin,11
 Water Dragon's Scale,"Harp,BiT,Scale",12
 Lake Floria Goddess Cube,"Harp,BiT,Scale",12
 Guardian Potion+,Potions,12
@@ -85,6 +89,7 @@ Earth Temple Dungeon Map,"Map,Earth",12
 3 Medals,Medals,12
 Whip,"Scale,Cistern",12
 Ancient Cistern Map,"Scale,Cistern",12
+Rupee Dowsing,BiT,12
 Reinforced Shield,Shields,13
 Open all Earth Temple Chests,"Chests,Earth",13
 Visible Life Tree Seedling,Life Tree,13
@@ -131,11 +136,12 @@ Mallara's Gratitude Crystals,Crystals,18
 LMF Dungeon Map,"Map,LMF",18
 Large Slingshot Satchel,"Ammo,Upgrade",18
 Large Bomb Bag,"Ammo,Upgrade",18
-Baby's Rattle,Misc,18
 Bow,Clawshots,18
 Cawlin's Letter,Harp,18
 Ballad of the Goddess,Harp,18
 Reseal the Imprisoned,"Harp,Imp",18
+Finish minecart escort,"Misc,BiT",18
+Baby's Rattle,Misc,19
 Tough Beetle,Upgrade,19
 3 Goddess Plumes,Treasures,19
 3 Dungeon Maps,Map,19
@@ -145,6 +151,7 @@ Tough Beetle,Upgrade,19
 Sand Ship HP,Clawshots,19
 8 Lanayru Bird Statues,"Statues,Harp",19
 Visible Life Tree Fruit,Life Tree,19
+Deliver Baby‘s Rattle,Misc,19
 Stamina Potion,Potions,20
 Open all LMF Chests,"LMF,Chests",20
 Open 40 Chests,Chests,20
@@ -161,10 +168,11 @@ Scattershot,"Upgrade,Harp,BiT",22
 3 Unique Iron Shields,Shields,22
 Ancient Sea Chart,"Clawshots,Gust Bellows",22
 Talk to Yerbal,"Harp,BiT",23
-Summon a Gossip Stone,Harp,23
+Summon a Gossip Stone,"Harp,Gossip Stone",23
 Repair Scrapper,"Harp,Imp",23
 Get Fairies from a Goddess Wall,"BiT,Harp",23
 Fire Sanctuary HP,Earrings,23
+Defeat both Molderarchs,"Clawshots,Gust Bellows",24
 Sacred Shield,"Shields,Imp,Harp",24
 Raise the Light Tower,"Harp,Imp",24
 Drink 1 of Each Basic Potion,"Harp,BiT,Scale,Potions",24
