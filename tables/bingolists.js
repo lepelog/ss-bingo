@@ -91,7 +91,7 @@ const bingoLists = {normal:[
             ]
         },
         {
-            "name": "Heart Dowsing Target",
+            "name": "Heart Dowsing",
             "types": [
                 "Misc"
             ]
@@ -240,6 +240,14 @@ const bingoLists = {normal:[
             "types": [
                 "Hearts"
             ]
+        },
+        {
+            "name": "Zelda's Heart Piece",
+            "types": [
+                "End",
+                "Hearts",
+                "Sailcloth"
+            ]
         }
     ],
     [
@@ -281,6 +289,14 @@ const bingoLists = {normal:[
             "types": [
                 "Treasures"
             ]
+        },
+        {
+            "name": "Zelda's Gratitude Crystal",
+            "types": [
+                "End",
+                "Crystals",
+                "Sailcloth"
+            ]
         }
     ],
     [
@@ -301,12 +317,6 @@ const bingoLists = {normal:[
             "name": "Defeat Ghirahim with a dart",
             "types": [
                 "Skyview"
-            ]
-        },
-        {
-            "name": "60 Deku Seed Capacity",
-            "types": [
-                "Ammo"
             ]
         },
         {
@@ -370,12 +380,6 @@ const bingoLists = {normal:[
             ]
         },
         {
-            "name": "Stone of Trials",
-            "types": [
-                "Skyloft Trial"
-            ]
-        },
-        {
             "name": "Skyview without beating Girahim",
             "types": [
                 "Skyview"
@@ -383,6 +387,12 @@ const bingoLists = {normal:[
         }
     ],
     [
+        {
+            "name": "Stone of Trials",
+            "types": [
+                "Skyloft Trial"
+            ]
+        },
         {
             "name": "Revitalizing Potion+",
             "types": [
@@ -423,6 +433,12 @@ const bingoLists = {normal:[
         }
     ],
     [
+        {
+            "name": "60 Deku Seed Capacity",
+            "types": [
+                "Ammo"
+            ]
+        },
         {
             "name": "Parrow's Gratitude Crystals",
             "types": [
@@ -480,25 +496,15 @@ const bingoLists = {normal:[
             "types": [
                 "BiT"
             ]
+        },
+        {
+            "name": "3 Goddess Plumes",
+            "types": [
+                "Treasures"
+            ]
         }
     ],
     [
-        {
-            "name": "Zelda's Heart Piece",
-            "types": [
-                "End",
-                "Hearts",
-                "Sailcloth"
-            ]
-        },
-        {
-            "name": "Zelda's Gratitude Crystal",
-            "types": [
-                "End",
-                "Crystals",
-                "Sailcloth"
-            ]
-        },
         {
             "name": "Two Unused Small Keys",
             "types": [
@@ -602,16 +608,15 @@ const bingoLists = {normal:[
             ]
         },
         {
-            "name": "Ancient Cistern Map",
-            "types": [
-                "Scale",
-                "Cistern"
-            ]
-        },
-        {
             "name": "Rupee Dowsing",
             "types": [
                 "BiT"
+            ]
+        },
+        {
+            "name": "Sacred Water Dowsing",
+            "types": [
+                "Scale"
             ]
         }
     ],
@@ -648,13 +653,6 @@ const bingoLists = {normal:[
             ]
         },
         {
-            "name": "Ancient Cistern Boss Key",
-            "types": [
-                "Scale",
-                "Cistern"
-            ]
-        },
-        {
             "name": "Beat Ancient Cistern",
             "types": [
                 "Scale",
@@ -670,6 +668,20 @@ const bingoLists = {normal:[
         }
     ],
     [
+        {
+            "name": "Ancient Cistern Map",
+            "types": [
+                "Scale",
+                "Cistern"
+            ]
+        },
+        {
+            "name": "Ancient Cistern Boss Key",
+            "types": [
+                "Scale",
+                "Cistern"
+            ]
+        },
         {
             "name": "Updated Lanaryu Desert Map",
             "types": [
@@ -763,6 +775,12 @@ const bingoLists = {normal:[
             "name": "Fireshield Earrings",
             "types": [
                 "Earrings"
+            ]
+        },
+        {
+            "name": "Talk to Yerbal",
+            "types": [
+                "Scale"
             ]
         }
     ],
@@ -879,6 +897,19 @@ const bingoLists = {normal:[
                 "Statues",
                 "Harp"
             ]
+        },
+        {
+            "name": "Tough Beetle",
+            "types": [
+                "Upgrade"
+            ]
+        },
+        {
+            "name": "Raise the Light Tower",
+            "types": [
+                "Harp",
+                "Imp"
+            ]
         }
     ],
     [
@@ -956,18 +987,6 @@ const bingoLists = {normal:[
             ]
         },
         {
-            "name": "Tough Beetle",
-            "types": [
-                "Upgrade"
-            ]
-        },
-        {
-            "name": "3 Goddess Plumes",
-            "types": [
-                "Treasures"
-            ]
-        },
-        {
             "name": "3 Dungeon Maps",
             "types": [
                 "Map"
@@ -1013,7 +1032,8 @@ const bingoLists = {normal:[
         {
             "name": "Deliver Baby‘s Rattle",
             "types": [
-                "Misc"
+                "Misc",
+                "Clawshots"
             ]
         }
     ],
@@ -1048,13 +1068,6 @@ const bingoLists = {normal:[
             "types": [
                 "Shields"
             ]
-        },
-        {
-            "name": "Sacred Water Dowsing",
-            "types": [
-                "Scale",
-                "Harp"
-            ]
         }
     ],
     [
@@ -1081,7 +1094,8 @@ const bingoLists = {normal:[
         {
             "name": "Fire Sanctuary Bottle",
             "types": [
-                "Earrings"
+                "Earrings",
+                "Bottles"
             ]
         }
     ],
@@ -1089,9 +1103,7 @@ const bingoLists = {normal:[
         {
             "name": "Scattershot",
             "types": [
-                "Upgrade",
-                "Harp",
-                "BiT"
+                "Upgrade"
             ]
         },
         {
@@ -1112,23 +1124,9 @@ const bingoLists = {normal:[
             "types": [
                 "Shields"
             ]
-        },
-        {
-            "name": "Ancient Sea Chart",
-            "types": [
-                "Clawshots",
-                "Gust Bellows"
-            ]
         }
     ],
     [
-        {
-            "name": "Talk to Yerbal",
-            "types": [
-                "Harp",
-                "BiT"
-            ]
-        },
         {
             "name": "Summon a Gossip Stone",
             "types": [
@@ -1151,33 +1149,11 @@ const bingoLists = {normal:[
             ]
         },
         {
-            "name": "Fire Sanctuary HP",
-            "types": [
-                "Earrings"
-            ]
-        }
-    ],
-    [
-        {
-            "name": "Defeat both Molderarchs",
-            "types": [
-                "Clawshots",
-                "Gust Bellows"
-            ]
-        },
-        {
             "name": "Sacred Shield",
             "types": [
                 "Shields",
                 "Imp",
                 "Harp"
-            ]
-        },
-        {
-            "name": "Raise the Light Tower",
-            "types": [
-                "Harp",
-                "Imp"
             ]
         },
         {
@@ -1187,6 +1163,28 @@ const bingoLists = {normal:[
                 "BiT",
                 "Scale",
                 "Potions"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Fire Sanctuary HP",
+            "types": [
+                "Earrings"
+            ]
+        },
+        {
+            "name": "Defeat both Molderarchs",
+            "types": [
+                "Clawshots",
+                "Gust Bellows"
+            ]
+        },
+        {
+            "name": "Ancient Sea Chart",
+            "types": [
+                "Clawshots",
+                "Gust Bellows"
             ]
         },
         {

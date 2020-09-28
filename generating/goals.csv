@@ -12,7 +12,7 @@ Bring Mia to Horwell,Skyloft,1
 100 Rupees before Faron,"Skyloft,Rupees",1
 Skyview Temple Heart Piece,"Skyview,Hearts",2
 Kill three guays in the sky,Sky,2
-Heart Dowsing Target,Misc,2
+Heart Dowsing,Misc,2
 Finish the Sword Tutorial,Skyloft,2
 Complete a ringer skydive,Sky,2
 Beedle's Scattered Crystal,Crystals,2
@@ -35,16 +35,17 @@ Floria Waterfall Bird Statue,"Faron,Statues",5
 6 Pouch Slots,"Pouch,Rupees",5
 5 Goddess Cubes,Cubes,5
 4 Heart Pieces,Hearts,5
+Zelda's Heart Piece,"End,Hearts,Sailcloth",5
 Win the Wing Ceremony Twice,"BiT,Skyloft",6
 Skyview Dungeon Map,"Map,Skyview",6
 Orielle's Gratitude Crystals,Crystals,6
 8 Faron Bird Statues,"Statues,Faron",6
 500 Rupees,Rupees,6
 5 Bird Feathers,Treasures,6
+Zelda's Gratitude Crystal,"End,Crystals,Sailcloth",6
 Treasure Medal,Medals,7
 Eldin Heart Piece,"Hearts,Eldin",7
 Defeat Ghirahim with a dart,Skyview,7
-60 Deku Seed Capacity,Ammo,7
 4 Eldin Bird Statues,"Statues,Eldin",7
 10 Volcanic Ladybugs,Bugs,7
 Beat Skyview but not Girahim,"Skyview,BiT",7
@@ -54,14 +55,15 @@ Fairy in a Bottle,Bottles,8
 Batreaux's Heart Piece,"Hearts,Crystals",8
 3 Blue Bird Feathers,Treasures,8
 28+ cuts at Bamboo Island,Misc,8
-Stone of Trials,Skyloft Trial,8
 Skyview without beating Girahim,Skyview,8
+Stone of Trials,Skyloft Trial,9
 Revitalizing Potion+,Potions,9
 Open all Skyview Temple Chests,"Chests,Skyview",9
 Both Faron Heart Pieces,"Faron,Hearts",9
 5 Eldin Ore,Treasures,9
 3 Bottles,Bottles,9
 10 Unique Scattered Crystals,Crystals,9
+60 Deku Seed Capacity,Ammo,10
 Parrow's Gratitude Crystals,Crystals,10
 Kina's Pumpkin Carrying Game,Pumpkin,10
 Enter Isle of Songs,BiT,10
@@ -71,8 +73,7 @@ Air Potion,"Potions,Scale,BiT",10
 15 Unique Gratitude Crystals,Crystals,10
 Sky Keep Map,Skyloft Trial,10
 Trial Dowsing,BiT,10
-Zelda's Heart Piece,"End,Hearts,Sailcloth",11
-Zelda's Gratitude Crystal,"End,Crystals,Sailcloth",11
+3 Goddess Plumes,Treasures,10
 Two Unused Small Keys,"BiT,Skyview",11
 Skyview Zero Dungeon Map,"Map,Skyview,BiT",11
 Peatrice's Gratitude Crystals,Crystals,11
@@ -88,16 +89,17 @@ Earth Temple Dungeon Map,"Map,Earth",12
 3 Unique Shields,Shields,12
 3 Medals,Medals,12
 Whip,"Scale,Cistern",12
-Ancient Cistern Map,"Scale,Cistern",12
 Rupee Dowsing,BiT,12
+Sacred Water Dowsing,Scale,12
 Reinforced Shield,Shields,13
 Open all Earth Temple Chests,"Chests,Earth",13
 Visible Life Tree Seedling,Life Tree,13
 Five map beacons,Lanayru,13
 Destroy all of Scaldera's Rocks,Earth,13
-Ancient Cistern Boss Key,"Scale,Cistern",13
 Beat Ancient Cistern,"Scale,Cistern",13
 Sacred Water,"Skyview, Scale",13
+Ancient Cistern Map,"Scale,Cistern",14
+Ancient Cistern Boss Key,"Scale,Cistern",14
 Updated Lanaryu Desert Map,Lanayru,14
 Quick Beetle,Upgrade,14
 Catch one of every bug,Bugs,14
@@ -113,6 +115,7 @@ Big Bug Net,Upgrade,15
 25 Unique Gratitude Crystals,Crystals,15
 10 Goddess Cubes,Cubes,15
 Fireshield Earrings,Earrings,15
+Talk to Yerbal,Scale,15
 Duplicate an Ampilus Egg,Lanayru,16
 Cursed Medal,"Medals,Crystals",16
 Both Life Medals,Medals,16
@@ -131,6 +134,8 @@ Fortified Shield,Shields,17
 1500 Rupees,Rupees,17
 5 Eldin Bird Statues,Earrings,17
 Temple of Time Bird Statue,"Statues,Harp",17
+Tough Beetle,Upgrade,17
+Raise the Light Tower,"Harp,Imp",17
 Turn a windmill,Misc,18
 Mallara's Gratitude Crystals,Crystals,18
 LMF Dungeon Map,"Map,LMF",18
@@ -142,8 +147,6 @@ Ballad of the Goddess,Harp,18
 Reseal the Imprisoned,"Harp,Imp",18
 Finish minecart escort,"Misc,BiT",18
 Baby's Rattle,Misc,19
-Tough Beetle,Upgrade,19
-3 Goddess Plumes,Treasures,19
 3 Dungeon Maps,Map,19
 15 Goddess Cubes,Cubes,19
 12 Hearts,Hearts,19
@@ -151,31 +154,28 @@ Tough Beetle,Upgrade,19
 Sand Ship HP,Clawshots,19
 8 Lanayru Bird Statues,"Statues,Harp",19
 Visible Life Tree Fruit,Life Tree,19
-Deliver Baby‘s Rattle,Misc,19
+Deliver Baby‘s Rattle,"Misc,Clawshots",19
 Stamina Potion,Potions,20
 Open all LMF Chests,"LMF,Chests",20
 Open 40 Chests,Chests,20
 Goddess Harp,Harp,20
 5 Unique Shields,Shields,20
-Sacred Water Dowsing,"Scale,Harp",20
 Stamina Potion+,Potions,21
 40 Unique Gratitude Crystals,"Crystals,Imp",21
 20 Bird Statues,"Statues,Harp",21
-Fire Sanctuary Bottle,Earrings,21
-Scattershot,"Upgrade,Harp,BiT",22
+Fire Sanctuary Bottle,"Earrings,Bottles",21
+Scattershot,Upgrade,22
 8 Pouch Slots,"Pouch,Rupees",22
 6 Medals,Medals,22
 3 Unique Iron Shields,Shields,22
-Ancient Sea Chart,"Clawshots,Gust Bellows",22
-Talk to Yerbal,"Harp,BiT",23
 Summon a Gossip Stone,"Harp,Gossip Stone",23
 Repair Scrapper,"Harp,Imp",23
 Get Fairies from a Goddess Wall,"BiT,Harp",23
-Fire Sanctuary HP,Earrings,23
+Fire Sanctuary HP,Earrings,24
 Defeat both Molderarchs,"Clawshots,Gust Bellows",24
-Sacred Shield,"Shields,Imp,Harp",24
-Raise the Light Tower,"Harp,Imp",24
-Drink 1 of Each Basic Potion,"Harp,BiT,Scale,Potions",24
+Sacred Shield,"Shields,Imp,Harp",23
+Drink 1 of Each Basic Potion,"Harp,BiT,Scale,Potions",23
+Ancient Sea Chart,"Clawshots,Gust Bellows",24
 Beedle's Heart Piece,"Hearts,Rupees",24
 All 10 Faron Bird Statues,"Harp,BiT,Scale,Statues",24
 1900 Rupees,Rupees,24

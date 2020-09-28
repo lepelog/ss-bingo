@@ -91,7 +91,7 @@
             ]
         },
         {
-            "name": "Heart Dowsing Target",
+            "name": "Heart Dowsing",
             "types": [
                 "Misc"
             ]
@@ -240,6 +240,14 @@
             "types": [
                 "Hearts"
             ]
+        },
+        {
+            "name": "Zelda's Heart Piece",
+            "types": [
+                "End",
+                "Hearts",
+                "Sailcloth"
+            ]
         }
     ],
     [
@@ -281,6 +289,14 @@
             "types": [
                 "Treasures"
             ]
+        },
+        {
+            "name": "Zelda's Gratitude Crystal",
+            "types": [
+                "End",
+                "Crystals",
+                "Sailcloth"
+            ]
         }
     ],
     [
@@ -301,12 +317,6 @@
             "name": "Defeat Ghirahim with a dart",
             "types": [
                 "Skyview"
-            ]
-        },
-        {
-            "name": "60 Deku Seed Capacity",
-            "types": [
-                "Ammo"
             ]
         },
         {
@@ -370,12 +380,6 @@
             ]
         },
         {
-            "name": "Stone of Trials",
-            "types": [
-                "Skyloft Trial"
-            ]
-        },
-        {
             "name": "Skyview without beating Girahim",
             "types": [
                 "Skyview"
@@ -383,6 +387,12 @@
         }
     ],
     [
+        {
+            "name": "Stone of Trials",
+            "types": [
+                "Skyloft Trial"
+            ]
+        },
         {
             "name": "Revitalizing Potion+",
             "types": [
@@ -423,6 +433,12 @@
         }
     ],
     [
+        {
+            "name": "60 Deku Seed Capacity",
+            "types": [
+                "Ammo"
+            ]
+        },
         {
             "name": "Parrow's Gratitude Crystals",
             "types": [
@@ -480,25 +496,15 @@
             "types": [
                 "BiT"
             ]
+        },
+        {
+            "name": "3 Goddess Plumes",
+            "types": [
+                "Treasures"
+            ]
         }
     ],
     [
-        {
-            "name": "Zelda's Heart Piece",
-            "types": [
-                "End",
-                "Hearts",
-                "Sailcloth"
-            ]
-        },
-        {
-            "name": "Zelda's Gratitude Crystal",
-            "types": [
-                "End",
-                "Crystals",
-                "Sailcloth"
-            ]
-        },
         {
             "name": "Two Unused Small Keys",
             "types": [
@@ -602,16 +608,15 @@
             ]
         },
         {
-            "name": "Ancient Cistern Map",
-            "types": [
-                "Scale",
-                "Cistern"
-            ]
-        },
-        {
             "name": "Rupee Dowsing",
             "types": [
                 "BiT"
+            ]
+        },
+        {
+            "name": "Sacred Water Dowsing",
+            "types": [
+                "Scale"
             ]
         }
     ],
@@ -648,13 +653,6 @@
             ]
         },
         {
-            "name": "Ancient Cistern Boss Key",
-            "types": [
-                "Scale",
-                "Cistern"
-            ]
-        },
-        {
             "name": "Beat Ancient Cistern",
             "types": [
                 "Scale",
@@ -670,6 +668,20 @@
         }
     ],
     [
+        {
+            "name": "Ancient Cistern Map",
+            "types": [
+                "Scale",
+                "Cistern"
+            ]
+        },
+        {
+            "name": "Ancient Cistern Boss Key",
+            "types": [
+                "Scale",
+                "Cistern"
+            ]
+        },
         {
             "name": "Updated Lanaryu Desert Map",
             "types": [
@@ -763,6 +775,12 @@
             "name": "Fireshield Earrings",
             "types": [
                 "Earrings"
+            ]
+        },
+        {
+            "name": "Talk to Yerbal",
+            "types": [
+                "Scale"
             ]
         }
     ],
@@ -879,6 +897,19 @@
                 "Statues",
                 "Harp"
             ]
+        },
+        {
+            "name": "Tough Beetle",
+            "types": [
+                "Upgrade"
+            ]
+        },
+        {
+            "name": "Raise the Light Tower",
+            "types": [
+                "Harp",
+                "Imp"
+            ]
         }
     ],
     [
@@ -956,18 +987,6 @@
             ]
         },
         {
-            "name": "Tough Beetle",
-            "types": [
-                "Upgrade"
-            ]
-        },
-        {
-            "name": "3 Goddess Plumes",
-            "types": [
-                "Treasures"
-            ]
-        },
-        {
             "name": "3 Dungeon Maps",
             "types": [
                 "Map"
@@ -1013,7 +1032,8 @@
         {
             "name": "Deliver Baby‘s Rattle",
             "types": [
-                "Misc"
+                "Misc",
+                "Clawshots"
             ]
         }
     ],
@@ -1048,13 +1068,6 @@
             "types": [
                 "Shields"
             ]
-        },
-        {
-            "name": "Sacred Water Dowsing",
-            "types": [
-                "Scale",
-                "Harp"
-            ]
         }
     ],
     [
@@ -1081,7 +1094,8 @@
         {
             "name": "Fire Sanctuary Bottle",
             "types": [
-                "Earrings"
+                "Earrings",
+                "Bottles"
             ]
         }
     ],
@@ -1089,9 +1103,7 @@
         {
             "name": "Scattershot",
             "types": [
-                "Upgrade",
-                "Harp",
-                "BiT"
+                "Upgrade"
             ]
         },
         {
@@ -1112,23 +1124,9 @@
             "types": [
                 "Shields"
             ]
-        },
-        {
-            "name": "Ancient Sea Chart",
-            "types": [
-                "Clawshots",
-                "Gust Bellows"
-            ]
         }
     ],
     [
-        {
-            "name": "Talk to Yerbal",
-            "types": [
-                "Harp",
-                "BiT"
-            ]
-        },
         {
             "name": "Summon a Gossip Stone",
             "types": [
@@ -1151,33 +1149,11 @@
             ]
         },
         {
-            "name": "Fire Sanctuary HP",
-            "types": [
-                "Earrings"
-            ]
-        }
-    ],
-    [
-        {
-            "name": "Defeat both Molderarchs",
-            "types": [
-                "Clawshots",
-                "Gust Bellows"
-            ]
-        },
-        {
             "name": "Sacred Shield",
             "types": [
                 "Shields",
                 "Imp",
                 "Harp"
-            ]
-        },
-        {
-            "name": "Raise the Light Tower",
-            "types": [
-                "Harp",
-                "Imp"
             ]
         },
         {
@@ -1187,6 +1163,28 @@
                 "BiT",
                 "Scale",
                 "Potions"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Fire Sanctuary HP",
+            "types": [
+                "Earrings"
+            ]
+        },
+        {
+            "name": "Defeat both Molderarchs",
+            "types": [
+                "Clawshots",
+                "Gust Bellows"
+            ]
+        },
+        {
+            "name": "Ancient Sea Chart",
+            "types": [
+                "Clawshots",
+                "Gust Bellows"
             ]
         },
         {
